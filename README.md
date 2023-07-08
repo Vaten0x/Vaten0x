@@ -11,6 +11,8 @@
 
 - 📫 How to reach me **jason0409lee@gmail.com**
 
+- 📄 Know about my experiences [https://drive.google.com/file/d/1gmeU0Z71aDMVgiZ5rjswTRTzank8VE-3/view?usp=sharing](https://drive.google.com/file/d/1gmeU0Z71aDMVgiZ5rjswTRTzank8VE-3/view?usp=sharing)
+
 - ⚡ For more inquires **Click the discord link below**
 
 <h3 align="left">Connect with me:</h3>
