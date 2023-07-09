@@ -1,4 +1,4 @@
-<p> <img src="https://drive.google.com/file/d/1spw-UOoCI3LzRqL53NRasI6kZ7QeSkst/view?usp=sharing" alt="UC Berkeley AI Hackathon"/> </p>
+<p> <img src="IMG_5103_Original.jpg" alt="UC Berkeley AI Hackathon"/> </p>
 
 <h1 align="center">Hi 👋, I'm Jason Lee</h1>
 <h3 align="center">I'm a Computer Engineering student at the University of British Columbia</h3>
