@@ -1,4 +1,4 @@
-<p> <img src="UC Berkeley AI Hackathon.png" alt="UC Berkeley AI Hackathon"/> </p>
+<p style="text-align:center;"> <img src="UC Berkeley AI Hackathon.png" alt="UC Berkeley AI Hackathon"/> </p>
 
 <h1 align="center">Hi 👋, I'm Jason Lee</h1>
 <h3 align="center">I'm a Computer Engineering student at the University of British Columbia</h3>
