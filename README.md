@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1gmeU0Z71aDMVgiZ5rjswTRTzank8VE-3/view?usp=sharing)
 
-- ⚡ For more inquires **Click the discord link below**
+- ⚡ For more inquires *Join the Discord Server Below!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
