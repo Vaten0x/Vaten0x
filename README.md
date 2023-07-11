@@ -1,5 +1,3 @@
-<p style="text-align:center;"><img src="UC Berkeley AI Hackathon.png" alt="UC Berkeley AI Hackathon"/></p>
-
 <h1 align="center">Hi 👋, I'm Jason Lee</h1>
 <h3 align="center">I'm a Computer Engineering student at the University of British Columbia</h3>
 
@@ -13,17 +11,18 @@
 
 - 📫 How to reach me **jason0409lee@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1gmeU0Z71aDMVgiZ5rjswTRTzank8VE-3/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1gmeU0Z71aDMVgiZ5rjswTRTzank8VE-3/view?usp=drive_link](https://drive.google.com/file/d/1gmeU0Z71aDMVgiZ5rjswTRTzank8VE-3/view?usp=drive_link)
 
-- ⚡ For more inquires **Join my [Discord Server](https://discord.gg/chFYUw8JT7)!**
+- ⚡ For more inquires **Click the discord link below**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jaewon-lee-63064a195" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jaewon-lee-63064a195" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22196178" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22196178" height="30" width="40" /></a>
 <a href="https://instagram.com/dlwodnjs04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dlwodnjs04" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/renewalhtn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="renewalhtn" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/vaten0x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vaten0x" height="30" width="40" /></a>
-<a href="https://discord.gg/chFYUw8JT7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nMjM8wzgPz" height="30" width="40" /></a>
+<a href="https://discord.gg/nMjM8wzgPz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nMjM8wzgPz" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
