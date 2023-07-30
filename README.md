@@ -1,9 +1,9 @@
+<p style="text-align:center;"><img src="UC Berkeley AI Hackathon.png" alt="UC Berkeley AI Hackathon"/></p>
+
 <h1 align="center">Hi 👋, I'm Jason Lee</h1>
 <h3 align="center">I'm a Computer Engineering student at the University of British Columbia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaten0x&label=Profile%20views&color=ff00f7&style=flat" alt="vaten0x" /> </p>
-
-- 🔭 I’m currently working on [FitFormTracker](https://github.com/Damond-F/Fit-Form-Tracker)
 
 - 🌱 I’m currently learning **Java in OOP**
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **jason0409lee@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1gmeU0Z71aDMVgiZ5rjswTRTzank8VE-3/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1IK56-RU619l6SuP1QHSpb58WTFgc7F6y/view?usp=sharing](https://drive.google.com/file/d/1IK56-RU619l6SuP1QHSpb58WTFgc7F6y/view?usp=sharing)
 
 - ⚡ For more inquires **Click the discord link below**
 
@@ -20,7 +20,7 @@
 <a href="https://linkedin.com/in/jaewon-lee-63064a195" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jaewon-lee-63064a195" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22196178" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22196178" height="30" width="40" /></a>
 <a href="https://instagram.com/dlwodnjs04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dlwodnjs04" height="30" width="40" /></a>
-<a href="https://youtube.com/@Vaten0x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="renewalhtn" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/renewalhtn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="renewalhtn" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/vaten0x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vaten0x" height="30" width="40" /></a>
 <a href="https://discord.gg/nMjM8wzgPz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nMjM8wzgPz" height="30" width="40" /></a>
 </p>
