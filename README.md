@@ -5,6 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaten0x&label=Profile%20views&color=ff00f7&style=flat" alt="vaten0x" /> </p>
 
+- 🔭 I’m currently working on [Nom Appetit](https://github.com/ubclaunchpad/nom-appetit)
+
 - 🌱 I’m currently learning **Principles of Software Construction**
 
 - 💬 Ask me about **Computer Engineering in UBC!**
