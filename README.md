@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Jason Lee</h1>
+<h1 align="center">Hi 👋, I'm Jaewon Lee</h1>
 <h3 align="center">I'm a Computer Engineering student at the University of British Columbia</h3>
 
-- 🔭 I’m currently working on [Nom Appetit](https://github.com/ubclaunchpad/nom-appetit)
+- 🔭 I’m currently working on my portfolio! Check it out! -> https://vaten0x.github.io/react-portfolio/
 
-- 🌱 I’m currently learning **Principles of Software Construction with Java, mySQL, React Native!**
+- 🌱 I’m currently learning **Deep Learning with TensorFlow and OpenCV!**
 
 - 💬 Ask me about **Computer Engineering in CPEN**
 
