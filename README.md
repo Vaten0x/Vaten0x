@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jason Lee</h1>
 <h3 align="center">I'm a Computer Engineering student at the University of British Columbia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vaten0x&label=Profile%20views&color=0e75b6&style=flat" alt="vaten0x" /> </p>
-
 - 🔭 I’m currently working on [Workday Calendar Extension](https://github.com/mlool/workday-calendar-extension/tree/develop)
 
 - 🌱 I’m currently learning **Advanced combinational and sequential electronic system design**
