@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jason Lee</h1>
 <h3 align="center">I'm a Computer Engineering student at the University of British Columbia</h3>
 
-- 🔭 I’m currently working on [Workday Calendar Extension](https://github.com/mlool/workday-calendar-extension/tree/develop)
+- 🔭 I’m currently working on [My Portfolio!](https://vaten0x.github.io/react-portfolio/)
 
-- 🌱 I’m currently learning **Advanced combinational and sequential electronic system design**
+- 🌱 I’m currently learning **Rust**
 
 - 👨‍💻 All of my projects are available at [https://vaten0x.github.io/react-portfolio/](https://vaten0x.github.io/react-portfolio/)
 
