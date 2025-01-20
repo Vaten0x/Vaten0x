@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [My Portfolio!](https://vaten0x.github.io/react-portfolio/)
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **SQL**
 
 - 👨‍💻 All of my projects are available at [https://vaten0x.github.io/react-portfolio/](https://vaten0x.github.io/react-portfolio/)
 
