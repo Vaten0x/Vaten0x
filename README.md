@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **SQL**
 
-- 👨‍💻 All of my projects are available at [https://vaten0x.github.io/react-portfolio/](https://vaten0x.github.io/react-portfolio/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://vaten0x.github.io/react-portfolio/)
 
 - 💬 Ask me about **Computer Engineering in UBC!**
 
