@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jason Lee</h1>
 <h3 align="center">I'm a Computer Engineering student at the University of British Columbia</h3>
 
-- 🔭 I’m currently working on [FPGA-based CNN Hand Gesture Control!](https://github.com/Vaten0x/InMoov-AI-Robotic-Hand)
+- 🔭 I’m currently working on [Inmoov-AI-Robotic-Hand](https://github.com/Vaten0x/InMoov-AI-Robotic-Hand)
 
-- 🌱 I’m currently learning **SQL**
+- 🌱 I’m currently learning **AWS Cloud Technologies**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://vaten0x.github.io/react-portfolio/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://vaten0x.github.io/react-portfolio/) (Currently down!)
 
 - 💬 Ask me about **Computer Engineering in UBC!**
 
