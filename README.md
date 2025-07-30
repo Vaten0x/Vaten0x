@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Inmoov-AI-Robotic-Hand](https://github.com/Vaten0x/InMoov-AI-Robotic-Hand)
 
-- 🌱 I’m currently learning **AWS Cloud Technologies**
+- 🌱 I’m currently learning **Javascript**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://vaten0x.github.io/react-portfolio/) (Currently down!)
 
