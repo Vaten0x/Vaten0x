@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [FPGA Bionic Robot Hand](https://github.com/Vaten0x/InMoov-AI-Robotic-Hand)
 
-- 🌱 I’m currently learning **UVM**
+- 🌱 I’m currently learning **UVM** with UVM Cookbook!
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://vaten0x.github.io/react-portfolio/) (Currently down please check later!)
 
