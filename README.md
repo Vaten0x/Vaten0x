@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jason Lee</h1>
 <h3 align="center">I'm a Computer Engineering student at the University of British Columbia</h3>
 
-- I’m currently working on RISCV RV32I
+- I’m currently working on [RISC-V RV32I](https://github.com/Vaten0x/RISC-V-RV32I)
 
 - 🌱 I’m currently learning **UVM**
 
